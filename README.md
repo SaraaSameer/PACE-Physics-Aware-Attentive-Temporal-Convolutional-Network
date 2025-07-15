@@ -17,6 +17,6 @@ A lightweight deep learning framework for accurate and efficient battery State-o
 
 ## Get Started
 Install Python 3.6, PyTorch 1.9.0.
-' python main.py --mode train --epochs 100 --batch_size 32 --lr 1e-3 --input_window 100 --output_window 30 --num_channels 32 64 64 --kernel_size 3 --num_runs 3  --model_dir models --wandb_project battery_soh --use_wandb --scale_data --attention_type multi --chunk_size 16'
+`python main.py --mode train --epochs 100 --batch_size 32 --lr 1e-3 --input_window 100 --output_window 30 --num_channels 32 64 64 --kernel_size 3 --num_runs 3  --model_dir models --wandb_project battery_soh --use_wandb --scale_data --attention_type multi --chunk_size 16`
 ## Citation
 If you find this repo useful, please cite our paper
