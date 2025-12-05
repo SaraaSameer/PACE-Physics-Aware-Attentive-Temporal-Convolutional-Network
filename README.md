@@ -8,8 +8,6 @@ Sara Sameer (sara.sameer@singaporetech.edu.sg)<br/>
 Zhang Wei (wei.zhang@singaporetech.edu.sg) [Corresponding author]<br/>
 Kannan Dhivya Dharshini(dhivyadharshini.kannan@singaporetech.edu.sg)
 
-
-
 ## Overview of the Architecture
 <br/>
 ![Image](https://github.com/user-attachments/assets/7eb5a6ca-5fbd-4ca4-ac06-3466183951c0)
