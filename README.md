@@ -9,7 +9,7 @@ Zhang Wei (wei.zhang@singaporetech.edu.sg) [Corresponding author]<br/>
 Kannan Dhivya Dharshini(dhivyadharshini.kannan@singaporetech.edu.sg)
 
 ## Dataset
-All the datasets needed for PACE can be obtained from the [Google Drive](https://drive.google.com/drive/folders/17EgmydWItsvkkWl4Z-XtkEgD-fk-pYUL?usp=drive_link)
+All the datasets needed for PACE can be obtained from the [Google Drive](https://drive.google.com/drive/folders/17EgmydWItsvkkWl4Z-XtkEgD-fk-pYUL?usp=drive_link). train_features_ecm.csv and test_features_ecm.csv are used for training of model using physics aware features and training_data.csv and testing_data.csv are used for experiments without physics features.
 
 ## Overview of the Architecture
 <br/>
