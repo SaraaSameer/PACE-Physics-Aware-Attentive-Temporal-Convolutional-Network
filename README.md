@@ -2,9 +2,7 @@
 A lightweight deep learning framework for accurate and efficient battery State-of-Health (SoH) monitoring. PACE combines temporal convolutional networks with physics-informed features from equivalent circuit models and chunked attention mechanisms to achieve superior performance while maintaining computational efficiency.
 
 ## Authors
-This work was developed at Singapore Institute of Technology 
-<br/>
-The top three main contributors are:
+This work was developed at Singapore Institute of Technology. The top three main contributors are:
 <br/>
 Sara Sameer (sara.sameer@singaporetech.edu.sg)<br/>
 Zhang Wei (wei.zhang@singaporetech.edu.sg) [Corresponding author]<br/>
