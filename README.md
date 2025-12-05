@@ -14,7 +14,12 @@ A lightweight deep learning framework for accurate and efficient battery State-o
 | **Pace (ours)** | 70.9             | 5.1            | 0.023            | 0.010            | **613.4**    | 0.033              | 0.014            | **427.5**      | 0.035              | 0.015            | **403.1**      |
 
 ## Get Started
+
 Install Python 3.6, PyTorch 1.9.0. <br/>
 `python main.py --mode train --epochs 100 --batch_size 32 --lr 1e-3 --input_window 100 --output_window 30 --num_channels 32 64 64 --kernel_size 3 --num_runs 3  --model_dir models --wandb_project battery_soh --use_wandb --scale_data --attention_type multi --chunk_size 16`
+
+## Demo Video for Edge Deployment
+[![Watch the demo](https://www.youtube.com/shorts/jADZwkI25ck)
+
 ## Citation
 Accepted in ACM Symposium On Applied Computing (SAC) 2026
