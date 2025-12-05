@@ -22,4 +22,4 @@ Install Python 3.6, PyTorch 1.9.0. <br/>
 [![Watch the demo](https://github.com/SaraaSameer/PACE-Physics-Aware-Attentive-Temporal-Convolutional-Network/blob/master/Images/edge.gif.gif)](https://youtube.com/shorts/jADZwkI25ck)
 
 ## Citation
-Accepted in ACM Symposium On Applied Computing (SAC) 2026
+Accepted at ACM Symposium On Applied Computing (SAC) 2026
