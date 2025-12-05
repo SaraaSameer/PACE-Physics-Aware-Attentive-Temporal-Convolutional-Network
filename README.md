@@ -6,8 +6,8 @@ This work was developed at Singapore Institute of Technology
 <br/>
 The top three main contributors are:
 <br/>
-Sara Sameer (sara.sameer@singaporetech.edu.sg)
-Zhang Wei (wei.zhang@singaporetech.edu.sg) [Corresponding author]
+Sara Sameer (sara.sameer@singaporetech.edu.sg)<br/>
+Zhang Wei (wei.zhang@singaporetech.edu.sg) [Corresponding author]<br/>
 Kannan Dhivya Dharshini(dhivyadharshini.kannan@singaporetech.edu.sg)
 
 ## Dataset
